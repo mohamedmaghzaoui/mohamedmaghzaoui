@@ -14,7 +14,7 @@ Master's student in Computer Science and Front-End Engineer Apprentice at PMU.
 
 ## 👋 Hi there
 
-I am a Computer Science Master's student at École Hexagone in Versailles and a Front-End Engineer Apprentice at PMU. I build reliable, user-focused applications across web, desktop, mobile, cloud and connected-device environments.
+I am a Computer Science Master's student at École Hexagone in Versailles and a Front-End Engineer Apprentice at PMU. I build reliable, user-focused applications across web, desktop, mobile, cloud and connected-device environments 🚀
 
 - 🔍 Looking for a software engineering position from **July 2027**.
 - 🤖 Interested in full-stack development, artificial intelligence, cloud technologies, IoT and networking technologies.
@@ -86,17 +86,7 @@ Secure Symfony platform for managing projects, skills and associated images, wit
 
 ⚡ **Fun Fact**: I love exploring new technologies and collaborating on projects that merge functionality with creativity.
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/mohamedmaghzaoui?style=for-the-badge&logo=github&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/mohamedmaghzaoui?style=for-the-badge&logo=github&label=Stars)
-![GitHub repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmohamedmaghzaoui&query=%24.public_repos&label=Public%20repositories&style=for-the-badge&logo=github)
-
-[View my GitHub activity](https://github.com/mohamedmaghzaoui)
-
-</div>
 
 ## 🎓 Education
 
