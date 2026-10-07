@@ -6,7 +6,9 @@
 
 Master's student in Computer Science and Front-End Engineer Apprentice at PMU.
 
-[🌐 Portfolio — mohamedmaghzaoui.online](https://mohamedmaghzaoui.online/) · [💼 LinkedIn — Mohamed Maghzaoui](https://www.linkedin.com/in/mohamed-maghzaoui-577044256/) · [✉️ Email — mohamedmaghzaoui53@gmail.com](mailto:mohamedmaghzaoui53@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedmaghzaoui.online-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedmaghzaoui.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Maghzaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-maghzaoui-577044256/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedmaghzaoui53@gmail.com)
 
 </div>
 
@@ -90,3 +92,4 @@ Secure Symfony platform for managing projects, skills and associated images, wit
 
 - **Master's Degree in Computer Science - Information Systems Architect**, École Hexagone, Versailles, 2025-2027
 - **Bachelor's Degree in Computer Science - Application Developer**, École Hexagone, Versailles, 2022-2025
+
